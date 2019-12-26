@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jmusic.Models", "Jmusic.Models\Jmusic.Models.csproj", "{BC2A4BA8-CA64-4F5D-98BF-A9B9EC08E2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jmusic.Data", "Jmusic.Data\Jmusic.Data.csproj", "{4689A66B-F8FC-41D6-9055-974041C896A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jmusic.WebApi", "Jmusic.WebApi\Jmusic.WebApi.csproj", "{7B34900C-B6D8-4193-B45E-16C807079C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jmusic.Dtos", "Jmusic.Dtos\Jmusic.Dtos.csproj", "{96EA29D0-4F8D-42EE-B19C-84D24A3F4611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2A4BA8-CA64-4F5D-98BF-A9B9EC08E2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2A4BA8-CA64-4F5D-98BF-A9B9EC08E2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2A4BA8-CA64-4F5D-98BF-A9B9EC08E2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2A4BA8-CA64-4F5D-98BF-A9B9EC08E2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4689A66B-F8FC-41D6-9055-974041C896A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4689A66B-F8FC-41D6-9055-974041C896A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4689A66B-F8FC-41D6-9055-974041C896A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4689A66B-F8FC-41D6-9055-974041C896A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B34900C-B6D8-4193-B45E-16C807079C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B34900C-B6D8-4193-B45E-16C807079C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B34900C-B6D8-4193-B45E-16C807079C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B34900C-B6D8-4193-B45E-16C807079C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EA29D0-4F8D-42EE-B19C-84D24A3F4611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EA29D0-4F8D-42EE-B19C-84D24A3F4611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EA29D0-4F8D-42EE-B19C-84D24A3F4611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EA29D0-4F8D-42EE-B19C-84D24A3F4611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7753DF5E-473E-4F8A-8A63-341A8C9784EF}
+	EndGlobalSection
+EndGlobal

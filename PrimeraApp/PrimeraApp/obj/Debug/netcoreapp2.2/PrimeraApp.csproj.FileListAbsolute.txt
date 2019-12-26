@@ -1,0 +1,14 @@
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\bin\Debug\netcoreapp2.2\PrimeraApp.deps.json
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\bin\Debug\netcoreapp2.2\PrimeraApp.runtimeconfig.json
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\bin\Debug\netcoreapp2.2\PrimeraApp.runtimeconfig.dev.json
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\bin\Debug\netcoreapp2.2\PrimeraApp.dll
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\bin\Debug\netcoreapp2.2\PrimeraApp.pdb
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.csprojAssemblyReference.cache
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.csproj.CoreCompileInputs.cache
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.RazorAssemblyInfo.cache
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.RazorAssemblyInfo.cs
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.AssemblyInfoInputs.cache
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.AssemblyInfo.cs
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.RazorTargetAssemblyInfo.cache
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.dll
+D:\julio\visualStudioCode\PrimeraApp\PrimeraApp\obj\Debug\netcoreapp2.2\PrimeraApp.pdb

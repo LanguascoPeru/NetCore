@@ -1,0 +1,17 @@
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.deps.json
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.dll
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.pdb
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.csproj.CoreCompileInputs.cache
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.AssemblyInfoInputs.cache
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.AssemblyInfo.cs
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.dll
+D:\julio\visualStudioCode\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.pdb
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.deps.json
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.dll
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\bin\Debug\netcoreapp2.2\Jmusic.Dtos.pdb
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.csprojAssemblyReference.cache
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.csproj.CoreCompileInputs.cache
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.AssemblyInfoInputs.cache
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.AssemblyInfo.cs
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.dll
+D:\julio\NetCore\Jmusic\Jmusic.Dtos\obj\Debug\netcoreapp2.2\Jmusic.Dtos.pdb

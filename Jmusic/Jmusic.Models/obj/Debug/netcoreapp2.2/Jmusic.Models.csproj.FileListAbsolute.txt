@@ -1,0 +1,16 @@
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.deps.json
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.dll
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.pdb
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.csproj.CoreCompileInputs.cache
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.AssemblyInfoInputs.cache
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.AssemblyInfo.cs
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.dll
+D:\julio\visualStudioCode\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.pdb
+D:\julio\NetCore\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.deps.json
+D:\julio\NetCore\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.dll
+D:\julio\NetCore\Jmusic\Jmusic.Models\bin\Debug\netcoreapp2.2\Jmusic.Models.pdb
+D:\julio\NetCore\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.csproj.CoreCompileInputs.cache
+D:\julio\NetCore\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.AssemblyInfoInputs.cache
+D:\julio\NetCore\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.AssemblyInfo.cs
+D:\julio\NetCore\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.dll
+D:\julio\NetCore\Jmusic\Jmusic.Models\obj\Debug\netcoreapp2.2\Jmusic.Models.pdb
